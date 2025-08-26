@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Call</title>
+    <script>
+        window.location.href = "tel:+351962918000";
+    </script>
+</head>
+<body></body>
+</html>
